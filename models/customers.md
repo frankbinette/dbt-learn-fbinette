@@ -1,6 +1,7 @@
 {% docs customers %}
 
 This is the customers model.
+Reference this markdown document in schema.yml under the description field of the table.
 
 [Link to a Makrdown cheat sheet.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) Link to a Makrdown cheat sheet.
 
